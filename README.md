@@ -28,7 +28,6 @@ I am Caroline Kuhn, a **Junior Full-Stack Web Developer** from Brazil but living
 
 ## Stats
 
-![Carolinekuuhn Stats](https://github-readme-stats.vercel.app/api?username=Carolinekuuhn&show_icons=true)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Carolinekuuhn&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinekuuhn&hide=TeX&layout=compact&theme=prussian)
 
