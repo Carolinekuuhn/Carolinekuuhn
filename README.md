@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Caroline Kuhn, a **Junior Full-Stack Web Developer** from Brazil but living in Portugal since 2018. With a background as a Restaurant Director, and previous experience in the health sector coordinating clinical reception departments. I'm very enthusiastic towards technology. Seeking a junior position in a company that will allow me to improve my skills, in a learning and challenging environment. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Caroline Kuhn, a **Junior Full-Stack Web Developer** from Brazil, living in Portugal since 2018. With a background as a Restaurant Director, and previous experience in the health sector coordinating clinical reception departments. I'm very enthusiastic towards technology. Seeking a junior position in a company that will allow me to improve my skills, in a learning and challenging environment. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuhncaroline/)
 
