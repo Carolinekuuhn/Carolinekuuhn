@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-I am Caroline Kuhn, a **Junior Full-Stack Web Developer** from Brazil, living in Portugal since 2018. With a background as a Restaurant Director, and previous experience in the health sector coordinating clinical reception departments. I'm very enthusiastic towards technology. Seeking a junior position in a company that will allow me to improve my skills, in a learning and challenging environment. To see my profile in detail, I recommend to look at my LinkedIn profile.
+Connecting People, Music, and Technology through Leadership and Creativity
+
+I am Caroline Kuhn, a **Junior Full-Stack Web Developer** from Brazil, living in Portugal since 2018. With a background that combines management, organization, and technical skills in web development, I bring a structured and agile approach to leading projects and teams and delivering results. My experience as a full-stack developer equipped me with a logical mindset and problem-solving abilities that I apply to everything I do, from technical website updates to daily challenges.
+
+• What drives me:
+Empowering the world to make music! Seeing our musicians and subscribers collaborate globally is a constant source of inspiration, and contributing to this mission is incredibly fulfilling.
+
+• Looking ahead:
+I’m eager to keep learning, lead new projects, and explore creative ways to connect people through music and technology. 
+
+Let’s connect and make something amazing together!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuhncaroline/)
 
